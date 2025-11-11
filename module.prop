@@ -1,6 +1,6 @@
 id=Vanadium-WebViewBrowser
 name=Vanadium WebView & Vanadium Browser Installer
-version=v1.0
-versionCode=10
+version=v1.0.0
+versionCode=100
 author=None Baiano (based on WebView Changer by Lordify)
 description=Change your system WebView with Vanadium WebView and installs Vanadium Browser.
