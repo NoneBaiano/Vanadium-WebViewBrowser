@@ -1,16 +1,16 @@
 # Vanadium WebView & Browser Installer
 
-This module changes your system WebView with Vanadium WebView and installs the Vanadium Browser.
+This module changes your system WebView to the Vanadium WebView and installs the Vanadium Browser.
 
 ## Features
 - Installs Vanadium Trichrome Library
 - Installs Vanadium WebView
 - Installs Vanadium Browser
 - Works with Magisk and KernelSU
-- Automatically debloats conflicting packages.
+- Automatically debloats conflicting packages
 
 ## What is this project?
-A Magisk/KernelSU module that changes your system WebView implementation to Vanadium WebView and installs the Vanadium Browser.
+A Magisk/KernelSU module that replaces the system WebView implementation with Vanadium WebView and installs the Vanadium Browser.
 
 ## Prerequisites
 - Android 10+ (API level 29 or higher)
@@ -27,20 +27,20 @@ A Magisk/KernelSU module that changes your system WebView implementation to Vana
 3. Reboot your device.
 
 ## Credits
-- Original module: WebViewChanger by Lordify (https://gitlab.com/Lordify/webview-changer)
-- Vanadium by GrapheneOS (GPL-2.0-only)
-- topjohnwu – for Magisk
-- Tiann – for KernelSU
-- Zackptg5 – for MMT-Extended
-- F3FFO – for Open WebView module
+- Original module: **WebViewChanger** by Lordify
+  https://gitlab.com/Lordify/webview-changer
+- **Vanadium** by GrapheneOS (GPL-2.0-only)
+- **topjohnwu** – Magisk
+- **Tiann** – KernelSU
+- **Zackptg5** – MMT-Extended
+- **F3FFO** – Open WebView module
 - Current fork modifications: **NoneBaiano**
 
 ## License
-This project is a derivative of Vanadium (GrapheneOS), which is licensed under the **GNU General Public License v2.0 ONLY**.
+This project is a derivative of **Vanadium (GrapheneOS)**, which is licensed under the **GNU General Public License v2.0 ONLY**.
 
-As required by the upstream license, this module is also distributed under **GPL-2.0-only**.
+As required by the upstream license, this module is also distributed under: **GPL-2.0-only**
 
-You must include the official GPL-2.0 license text in the `LICENSE` file.
+You must include the official GPL-2.0 license text in the [`LICENSE`](LICENSE) file.
 
-The official GPL-2.0-only license text is available at:  
-https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
+The official GPL-2.0-only license text is available at: https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
