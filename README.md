@@ -27,14 +27,20 @@ A Magisk/KernelSU module that changes your system WebView implementation to Vana
 3. Reboot your device.
 
 ## Credits
-- Original module: WebView Changer by Lordify (https://gitlab.com/Lordify/webview-changer)
+- Original module: WebViewChanger by Lordify (https://gitlab.com/Lordify/webview-changer)
+- Vanadium by GrapheneOS (GPL-2.0-only)
 - topjohnwu – for Magisk
 - Tiann – for KernelSU
 - Zackptg5 – for MMT-Extended
 - F3FFO – for Open WebView module
+- Current fork modifications: **NoneBaiano**
 
 ## License
-This project is licensed under the GNU General Public License v3.0 (GPL-3.0) or later.
-You are free to modify and redistribute it under the same terms.
+This project is a derivative of Vanadium (GrapheneOS), which is licensed under the **GNU General Public License v2.0 ONLY**.
 
-See the full [LICENSE](LICENSE) file for details.
+As required by the upstream license, this module is also distributed under **GPL-2.0-only**.
+
+You must include the official GPL-2.0 license text in the `LICENSE` file.
+
+The official GPL-2.0-only license text is available at:  
+https://www.gnu.org/licenses/old-licenses/gpl-2.0.txt
