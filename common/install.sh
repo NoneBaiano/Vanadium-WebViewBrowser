@@ -121,6 +121,9 @@ rm -rf "$MODPATH/bin/"*.zip
 rm -rf "$MODPATH/system/.placeholder"
 rm -rf "$MODPATH/Overlay"
 rm -rf "$MODPATH/common"
+rm -f "/data/local/tmp/VanadiumBrowser.apk"
+rm -f "/data/local/tmp/VanadiumTrichromeLibrary.apk"
+rm -f "/data/local/tmp/VanadiumWebView.apk"
 
 # Registrar pacotes instalados
 echo "WV1=app.vanadium.trichromelibrary" >> "$MODPATH/debloat.sh"
