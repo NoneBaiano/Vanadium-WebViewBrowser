@@ -11,6 +11,7 @@ CURL_BIN="$MODPATH/bin/curl"
 dl() {
 	url="$1"; out="$2"; n=1
 	while [[ $n -le 5 ]]; do
+		echo "Attempt $n of 5..."
 		if [[ $n -le 3 ]]; then
 			"$CURL_BIN" --fail --location --connect-timeout 15 --retry 2 --retry-delay 3 \
 				--dns-servers 1.1.1.1,1.0.0.1 -o "$out" "$url"
