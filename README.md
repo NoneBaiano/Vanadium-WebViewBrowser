@@ -3,7 +3,6 @@
 This module changes your system WebView with Vanadium WebView and installs the Vanadium Browser.
 
 ## Features
-- Installs Vanadium Trichrome Library
 - Installs Vanadium WebView
 - Installs Vanadium Browser
 - Works with Magisk and KernelSU
